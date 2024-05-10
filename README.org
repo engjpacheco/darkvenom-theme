@@ -1,0 +1,48 @@
+#+TITLE: DarkVenom Theme for Emacs
+#+author: Javier Pacheco
+#+date: 2024-05-09
+
+
+* Overview
+darkvenom is a sleek and sophisticated theme designed to enhance your coding experience in Emacs. With its dark and subdued color scheme, punctuated by subtle blue accents, darkvenom creates a visually appealing and comfortable environment for long coding sessions.
+
+* Features
+- Dark and elegant color scheme: Shades of gray dominate the theme, providing a sleek and professional appearance.
+- Subtle blue accents: Touches of blue add depth and character to the theme, creating visual interest without overwhelming the eyes.
+- Optimal readability: Carefully selected colors ensure clear contrast between syntax elements and background, enhancing readability and reducing eye strain.
+- Suitable for long coding sessions: darkvenom's balanced blend of darkness and vibrancy creates a comfortable and immersive environment, perfect for extended coding sessions.
+
+* Screenshot
+[[file:darkvenom-screenshot.png]]
+
+* Installation
+To use darkvenom in your Emacs environment, simply download the `darkvenom-theme.el` file and place it in your Emacs `load-path`. Then, add the following line to your Emacs configuration:
+
+#+BEGIN_SRC emacs-lisp
+(load-theme 'darkvenom t)
+#+END_SRC
+
+Alternatively, you can install darkvenom using package.el or straight.el by adding it to your package archives.
+
+* Usage
+Once darkvenom is installed, activate it in Emacs by executing the following command:
+
+#+BEGIN_SRC emacs-lisp
+(load-theme 'darkvenom t)
+#+END_SRC
+
+darkvenom will then be applied to your Emacs environment, providing you with a stylish and immersive coding experience.
+
+* Customization
+darkvenom provides some customization options to tailor the theme to your preferences. You can adjust the intensity of the gray tones or modify the shades of blue to suit your taste. Refer to the theme's source code for details on customization options.
+
+* Feedback and Contributions
+If you have any feedback, suggestions, or bug reports regarding darkvenom, please don't hesitate to open an issue on the GitHub repository. Contributions are also welcome! Feel free to submit pull requests with improvements or new features.
+
+* License
+darkvenom is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html). See the `LICENSE` file for more information.
+
+* Author
+darkvenom is created and maintained by Javier Pacheco.
+
+Enjoy coding with darkvenom and may your Emacs experience be both stylish and productive!
