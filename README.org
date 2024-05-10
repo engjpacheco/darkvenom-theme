@@ -40,7 +40,7 @@ darkvenom provides some customization options to tailor the theme to your prefer
 If you have any feedback, suggestions, or bug reports regarding darkvenom, please don't hesitate to open an issue on the GitHub repository. Contributions are also welcome! Feel free to submit pull requests with improvements or new features.
 
 * License
-darkvenom is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html). See the `LICENSE` file for more information.
+darkvenom is licensed under the [[GPL-3.0 License][https://www.gnu.org/licenses/gpl-3.0.html]]. See the `LICENSE` file for more information.
 
 * Author
 darkvenom is created and maintained by Javier Pacheco.
